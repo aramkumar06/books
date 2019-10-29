@@ -1155,3 +1155,9 @@ The Best Interface Is No Interface: The Simple Path to Brilliant Technology
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+
+Q&A
+CRACKING the CODING INTERVIEW pdf
+https://epiportal.com/Ebooks/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf
+
+http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
